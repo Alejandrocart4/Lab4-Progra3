@@ -5,7 +5,7 @@
 #include <QPoint>
 #include <QGraphicsView>
 
-
+ QGraphicsView* lienzo;
 // Clase base abstracta Figura
 class Figura {
 public:
