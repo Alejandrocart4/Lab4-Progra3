@@ -14,6 +14,7 @@ SOURCES += \
 
 HEADERS += \
     Ejercicio1.h \
+    Ejercicio2.h \
     cframe.h
 
 FORMS += \
