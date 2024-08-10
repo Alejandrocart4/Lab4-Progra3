@@ -1,0 +1,11 @@
+debug/canvas.o
+debug/circulo.o
+debug/comandocursiva.o
+debug/comandonegrita.o
+debug/comandosubrayado.o
+debug/main.o
+debug/cframe.o
+debug/rectangulo.o
+debug/triangulo.o
+debug/moc_canvas.o
+debug/moc_cframe.o

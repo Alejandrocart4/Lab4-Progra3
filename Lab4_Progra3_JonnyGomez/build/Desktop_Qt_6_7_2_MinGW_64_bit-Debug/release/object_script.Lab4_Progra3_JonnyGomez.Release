@@ -1,0 +1,11 @@
+release/canvas.o
+release/circulo.o
+release/comandocursiva.o
+release/comandonegrita.o
+release/comandosubrayado.o
+release/main.o
+release/cframe.o
+release/rectangulo.o
+release/triangulo.o
+release/moc_canvas.o
+release/moc_cframe.o
